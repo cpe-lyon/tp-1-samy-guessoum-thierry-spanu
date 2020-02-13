@@ -2,7 +2,7 @@
 
 ##Exo 2:
 
-1. Manuel
+1.Manuel
 
     1.1. man which --> Afficher le manuel intégré -> fourni une aide sur une commande.
          Which --> permet de donner le chemin d'une commande.
@@ -15,19 +15,19 @@
     
 2.Navigation
 
-    2.1. cd /var/log --> permet d'aller dans le dossier /var/log
+    2.1.cd /var/log --> permet d'aller dans le dossier /var/log
     
-    2.2. cd .. --> permet de retourner dans le /var
+    2.2.cd .. --> permet de retourner dans le /var
     
-    2.3. cd ~ --> permet de retourner dans le dossier personnel ou cd /home/linux --> propre à mon dossier personnel.
+    2.3.cd ~ --> permet de retourner dans le dossier personnel ou cd /home/linux --> propre à mon dossier personnel.
     
-    2.4. cd - --> retourne dans le chemin précédent.
+    2.4.cd - --> retourne dans le chemin précédent.
     
-    2.5. cd /root --> Nous n'avons pas les droits, l'accès est donc rejeté.
+    2.5.cd /root --> Nous n'avons pas les droits, l'accès est donc rejeté.
     
-    2.6. sudo cd /root --> On a accès car on passe par sudo qui correspond au droit "super utilisateur" (root).
+    2.6.sudo cd /root --> On a accès car on passe par sudo qui correspond au droit "super utilisateur" (root).
     
-    2.7. mkdir -p Dossier1/fichier1 Dossier2/Dossier2.1 Dossier2/Dossier2.2
+    2.7.mkdir -p Dossier1/fichier1 Dossier2/Dossier2.1 Dossier2/Dossier2.2
         touch Dossier1/fichier1
         touch Dossier2/Dossier2.2/fichier2 
         touch Dossier2/Dossier2.2/fichier3
@@ -41,7 +41,7 @@
     
     2.11. rm -r Dossier2 --> Supprime de manière récursive.
     
-3. Commandes importantes
+3.Commandes importantes
 
     3.1. date --> affiche la date et l'heure. 
         Time +cmd --> permet d'afficher l'usage de ressource et temps nécéssaire à           l'éxécution d'une commande.
