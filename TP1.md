@@ -80,7 +80,7 @@
     
     3.14 head -5 /var/log/syslog --> affiche les 5 premières lignes.
         tail -15 /var/log/syslog --> affiche les 15 dernières lignes.
-        head -10 | tail -20 /var/log/syslog --> Les lignes entre 10 et 20 .
+        head -20 | tail -10 /var/log/syslog --> Les lignes entre 10 et 20 .
         
     3.15 dmesg | less
         dmesg --> affiche contenu du buffer du kernel
@@ -105,7 +105,7 @@
     3.22 Dans votre dossier personnel, utilisez la commande grep pour chercher où est défini 
     l’alias ll vu précédemment.
 
-    ->                                                                                       
+    ->  cat .bashrc | grep ll                                                                                     
    
     3.23 Utilisez la commande locate pour trouver le fichier history.log.
 
