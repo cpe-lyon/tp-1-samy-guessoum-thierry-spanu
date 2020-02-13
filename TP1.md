@@ -86,8 +86,16 @@
     
 ## Exo 3:
 
+    4. more /var/log/syslog > log.txt --> Cela permet de copier le contenu de syslog dans log.txt
+    
+    4. _Sous VIM - :%s/kernel/noyau --> permet de remplacer le mot kernel par le mot noyau dans l'ensemble du fichier en une fois.
+    
+    4. _Sous VIM - 10dd --> coupe 10 lignes suivant le placement du curseur - p --> Colle le presse papier APRES le curseur (P pour coller avant le curseur).
+    
+    4. u ou CRTL+R --> permet d'annuler la dernière commande.
+    
+    4. ZZ ou :qw --> permet d'enregistrer le fichier avant de quitter.
  
 
 ## Exo 4:
-    4. more /var/log/syslog > log.txt --> Cela permet de copier le contenu de syslog dans log.txt
-    4. *Sous VIM*
+    
