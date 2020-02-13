@@ -4,7 +4,7 @@
 
 1. Manuel
 
-    1.1 man which --> Afficher le manuel intégré -> fourni une aide sur une commande.
+    1. man which --> Afficher le manuel intégré -> fourni une aide sur une commande.
          Which --> permet de donner le chemin d'une commande.
     
     1.2. /option permet de trouver tous les mots "option" dans le man.
