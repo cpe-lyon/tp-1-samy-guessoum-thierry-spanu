@@ -1,6 +1,6 @@
-#TP1: Admin Système
+# TP1: Admin Système
 
-##Exo 2:
+## Exo 2:
 
 1.Manuel
 
@@ -84,11 +84,11 @@
     
     3.16.
     
-##Exo 3:
+## Exo 3:
 
     3.1.
     
     3.2.
 
-##Exo 4:
+## Exo 4:
     
