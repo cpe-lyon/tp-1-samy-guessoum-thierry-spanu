@@ -7,11 +7,11 @@
     1. man which --> Afficher le manuel intégré -> fourni une aide sur une commande.
          Which --> permet de donner le chemin d'une commande.
     
-    1.2. /option permet de trouver tous les mots "option" dans le man.
+    1. /option permet de trouver tous les mots "option" dans le man.
 
-    1.3. Pour quitter le man, on doit appuer sur "q" et "entrer".
+    1. Pour quitter le man, on doit appuer sur "q" et "entrer".
 
-    1.4. man 6 intro --> section 6 --> donne des info sur les jeux et programmes sympas sur le système
+    1. man 6 intro --> section 6 --> donne des info sur les jeux et programmes sympas sur le système
     
 2. Navigation
 
