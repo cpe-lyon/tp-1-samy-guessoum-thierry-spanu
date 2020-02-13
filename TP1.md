@@ -135,4 +135,10 @@
  
 
 ## Exo 4:
+
+5.
+    5.3 {debian_chroot:+($debian_chroot)}  *\[\e[91m\]\t\[\033[01;32m\]*  \u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$
+    
+    Après l'ajout de la ligne et l'execution de *source .bashrc*, le prompt a bien changé de couleur.
+    
     
