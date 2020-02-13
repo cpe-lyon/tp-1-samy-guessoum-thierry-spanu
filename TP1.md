@@ -4,7 +4,7 @@
 
 1. Manuel
 
-    * man which --> Afficher le manuel intégré -> fourni une aide sur une commande.
+    1.1 man which --> Afficher le manuel intégré -> fourni une aide sur une commande.
          Which --> permet de donner le chemin d'une commande.
     
     1.2. /option permet de trouver tous les mots "option" dans le man.
@@ -13,7 +13,7 @@
 
     1.4. man 6 intro --> section 6 --> donne des info sur les jeux et programmes sympas sur le système
     
-2.Navigation
+2. Navigation
 
     2.1. cd /var/log --> permet d'aller dans le dossier /var/log
     
@@ -41,7 +41,7 @@
     
     2.11. rm -r Dossier2 --> Supprime de manière récursive.
     
-3.Commandes importantes
+3. Commandes importantes
 
     3.1. date --> affiche la date et l'heure. 
         Time +cmd --> permet d'afficher l'usage de ressource et temps nécéssaire à           l'éxécution d'une commande.
