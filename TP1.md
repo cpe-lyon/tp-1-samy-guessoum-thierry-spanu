@@ -93,7 +93,8 @@
 
     3.18 wc /etc/passwd --> affiche le nombre d'utilisateur.
 
-    3.19
+    3.19 man -k conversion | wc -l -> affiche le nombre de page contenant "conversion".
+
 
     3.20 sudo find / -name "passwd" | wc --> on cherche combien de fichier s'appelle passwd.
     
