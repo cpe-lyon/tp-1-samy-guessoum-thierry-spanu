@@ -2,7 +2,7 @@
 
 ## Exo 2:
 
-1.Manuel
+1. Manuel
 
     * man which --> Afficher le manuel intégré -> fourni une aide sur une commande.
          Which --> permet de donner le chemin d'une commande.
