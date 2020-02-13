@@ -98,7 +98,9 @@
 
     3.20 sudo find / -name "passwd" | wc --> on cherche combien de fichier s'appelle passwd.
     
-    3.21 
+    3.21 find / -name passwd >liste_users 2>/dev/null.
+         On va donc séparer les résultats et les erreurs.
+         dans liste_user --> les users et dans /dev/null --> les erreurs
     
     3.22 Dans votre dossier personnel, utilisez la commande grep pour chercher où est défini 
     l’alias ll vu précédemment.
@@ -118,6 +120,8 @@
     manuellmenent pour que *locate* puisse trouver notre fichier. Il faut faire : **updatedb**.
     
 ## Exo 3:
+
+4. 
 
     4.1 more /var/log/syslog > log.txt --> Cela permet de copier le contenu de syslog dans log.txt
     
